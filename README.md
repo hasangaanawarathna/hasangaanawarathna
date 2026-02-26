@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=Hello!+I'm+Hasanga+%F0%9F%91%8B;IT+Undergraduate+%7C+Full-stack+Learner;I+love+building+useful+student+projects" />
 </div>
 
-
-
 <p align="center">
   <a href="mailto:hasangaanawarathna@gmail.com" title="Email me">
     <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
@@ -18,17 +16,6 @@
   </a>
 </p>
 
-
-
-
-
-
-
-
-
-
----
-
 ### 🔧 Toolbox
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,bootstrap,php,mysql,git,linux,vscode&perline=6" />
@@ -39,11 +26,6 @@
 - RESTful APIs and clean architecture  
 - Testing (PyTest/Jest) & CI basics
 
----
-
-
-
----
 
 ### 📈 Profile Summary
 <p align="center">
@@ -58,7 +40,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAnawarathna&theme=rogue&hide_border=true" />
 </p>
 
----
 
 ### 🤝 Connect
 - 📩 Email: **hasangaanawarathna@gmail.com**  
