@@ -19,5 +19,5 @@
 ### 🤝 Connect
 - 📩 Email: **hasangaanawarathna@gmail.com**  
 - 🔗 LinkedIn: [Hasanga Anawarathna](https://www.linkedin.com/in/hasangaanawarathna)  
-- 🖥️ GitHub: [Hasanaga Anawarathna](https://github.com/hasangaanawarathna)
+
 
