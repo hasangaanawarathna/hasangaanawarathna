@@ -17,13 +17,9 @@
 </p>
 
 ### 🔧 Toolbox
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,bootstrap,php,mysql,git,linux,vscode&perline=6" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,bootstrap,php,mysql,git,linux,vscode" />
 </p>
-
-
-
-
 
 
 ### 🔄 Contribution Graph
