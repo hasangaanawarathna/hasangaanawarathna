@@ -7,11 +7,11 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hasanga-anawarathna-297081270" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/hasangaanawarathna" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/HAnawarathna" title="GitHub">
+  <a href="https://github.com/hasangaanawarathna" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
   </a>
 </p>
