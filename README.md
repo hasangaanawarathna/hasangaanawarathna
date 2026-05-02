@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=Hello!+I'm+Hasanga+%F0%9F%91%8B;IT+Undergraduate+%7C+Full-stack+Learner;I+love+building+useful+student+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=Hello!+I'm+Hasanga+Anawarathna+%F0%9F%91%8B;Hardworking+and+Self-Motivated+Individual;Quick+Learner+with+a+Positive+Attitude" />
 </div>
 
 
