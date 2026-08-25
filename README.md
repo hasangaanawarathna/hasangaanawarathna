@@ -11,8 +11,9 @@
 
 
 ### 🔄 My Contribution Graph
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/hasangaanawarathna" alt="Hasanga's GitHub Contribution Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasangaanawarathna&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 
