@@ -12,7 +12,13 @@
 
 ### 🔄 My Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasangaanawarathna&theme=rogue&hide_border=true" />
+  <img src="https://ghchart.rshah.org/hasangaanawarathna" alt="Hasanga's GitHub Contribution Chart" />
+</p>
+
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasangaanawarathna&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 
